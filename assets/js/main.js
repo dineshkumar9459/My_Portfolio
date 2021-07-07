@@ -11,7 +11,7 @@ $(document).ready(function() {
 
 // Typed.JS
 var typed = new Typed('.nikhilelement', {
-  strings: ["Python developer.", "Full stack developer.", "Java developer."],
+  strings: ["Java developer.", "Full stack developer.", "Python developer."],
   typeSpeed: 60,
   backSpeed: 45,
   loop: true
